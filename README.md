@@ -1,4 +1,4 @@
-# HTML Notes
+<h1 align="center">HTML Complete Notes</h1>
 
 > Transcription of the screenshots available from the referenced conversation. The attachment data provided pages 7–16 only; pages 1–6 were not available to transcribe.
 
@@ -426,3 +426,4 @@ Continuation of Useful Resources:
 - The available screenshots are numbered 7–16; pages 1–6 were not included in the referenced thread's accessible attachments.
 - Several HTML comments visibly use an arrow glyph (`→`) where a closing comment delimiter would normally appear. They are transcribed as shown.
 - On page 15, the checklist's first tag is rendered as `< !DOCTYPE html>` in the screenshot and is transcribed as displayed.
+
