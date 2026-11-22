@@ -1,4 +1,4 @@
-<h1 align="center">HTML Complete Notes</h1>
+<h1>HTML Notes</h1>
 
 > Transcription of the screenshots available from the referenced conversation. The attachment data provided pages 7–16 only; pages 1–6 were not available to transcribe.
 
