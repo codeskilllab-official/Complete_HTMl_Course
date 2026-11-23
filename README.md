@@ -216,7 +216,7 @@ HTML programming language nahi hai. Yeh webpage ka structure define karti hai.
 
 **Output:**
 
-<img src="assets/output _images/image1.png" width="600" height="250">
+<img src="assets/output _images/image32.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
