@@ -216,7 +216,7 @@ HTML programming language nahi hai. Yeh webpage ka structure define karti hai.
 
 **Output:**
 
-<img src="assets/output _images/image33.png" width="600" height="250">
+<img src="assets/output_images/image1.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
@@ -346,7 +346,7 @@ Har normal HTML document ka ek basic structure hota hai.
 
 **Output:**
 
-<img src="assets/output _images/image4.png" width="600" height="250">
+<img src="assets/output_images/image2.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
@@ -393,7 +393,7 @@ HTML document ke main elements:
 
 **Output:**
 
-<img src="assets/output _images/image5.png" width="600" height="250">
+<img src="assets/output_images/image3.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
@@ -452,7 +452,7 @@ Yahan:
 
 **Output:**
 
-<img src="assets/output _images/image3.png" width="600" height="250">
+<img src="assets/output_images/image4.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
@@ -578,7 +578,7 @@ Examples:
 
 **Output :**
 
-<img src="assets/output _images/image2.png" width="600" height="250">
+<img src="assets/output_images/image5.png" width="600" height="250">
 
 
 
@@ -607,7 +607,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image6.png" width="600" height="250">
+<img src="assets/output_images/image6.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 300 px -->
 
@@ -625,7 +625,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image7.png" width="600" height="250">
+<img src="assets/output_images/image7.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 200 px -->
 
@@ -645,7 +645,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image8.png" width="600" height="250">
+<img src="assets/output_images/image8.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 200 px -->
 
@@ -669,7 +669,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image9.png" width="600" height="250">
+<img src="assets/output_images/image9.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
