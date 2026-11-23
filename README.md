@@ -689,7 +689,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image10.png" width="600" height="250">
+<img src="assets/output_images/image10.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -709,7 +709,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image11.png" width="600" height="250">
+<img src="assets/output_images/image11.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -725,7 +725,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image12.png" width="600" height="250">
+<img src="assets/output_images/image12.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -743,7 +743,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image13.png">
+<img src="assets/output_images/image13.png">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -759,7 +759,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image14.png" width="600" height="250">
+<img src="assets/output_images/image14.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -779,7 +779,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image15.png" width="600" height="250">
+<img src="assets/output_images/image15.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -799,7 +799,7 @@ HTML mein six heading tags hote hain: `h1` se `h6` tak.
 
 **Output :**
 
-<img src="assets/output _images/image16.png" width="600" height="250">
+<img src="assets/output_images/image16.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -819,7 +819,7 @@ Subject: HTML
 
 **Output :**
 
-<img src="assets/output _images/image17.png" width="600" height="250">
+<img src="assets/output_images/image17.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 200 px -->
 
@@ -839,7 +839,7 @@ Subject: HTML
 
 **Output :**
 
-<img src="assets/output _images/image18.png" width="600" height="250"> 
+<img src="assets/output_images/image18.png" width="600" height="250"> 
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
@@ -861,7 +861,7 @@ Subject: HTML
 
 **Output :**
 
-<img src="assets/output _images/image19.png">
+<img src="assets/output_images/19.png">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 200 px -->
 
@@ -882,7 +882,7 @@ Subject: HTML
 
 **Output :**
 
-<img src="assets/output _images/image20.png" width="600" height="250">
+<img src="assets/output_images/20.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
