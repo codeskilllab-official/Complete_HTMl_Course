@@ -216,7 +216,7 @@ HTML programming language nahi hai. Yeh webpage ka structure define karti hai.
 
 **Output:**
 
-<img src="assets/output_images/image1.png" width="600" height="250">
+<img src="assets/output_images/1.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 250 px -->
 
@@ -265,7 +265,7 @@ Web development mein HTML, CSS aur JavaScript teen important technologies hain.
 
 **Example:**
 
-Ek ghar ko samjho:
+<img src="assets/output_images/2.png" width="600" height="250" >
 
 - HTML = Ghar ka structure.
 - CSS = Paint, decoration aur design.
