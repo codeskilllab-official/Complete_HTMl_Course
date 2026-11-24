@@ -1,6 +1,6 @@
 <h1 align="center" id="top">Complete HTML Notes</h1>
 
-# Table of Contents
+## Table of Contents
 
 1. [Introduction to HTML](#1-introduction-to-html)
    1. [What is HTML?](#what-is-html)
@@ -861,7 +861,7 @@ Subject: HTML
 
 **Output :**
 
-<img src="assets/output_images/19.png">
+<img src="assets/output_images/image19.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 200 px -->
 
@@ -882,7 +882,7 @@ Subject: HTML
 
 **Output :**
 
-<img src="assets/output_images/20.png" width="600" height="250">
+<img src="assets/output_images/image20.png" width="600" height="250">
 
 <!-- Add your output screenshot here. Recommended size: 600 × 150 px -->
 
